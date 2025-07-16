@@ -1,0 +1,32 @@
+{
+  "Name": "MainLinux",
+  "HotKey": {
+    "KeyCode": "None",
+    "Modifier": "None"
+  },
+  "IsActive": true,
+  "Version": 2,
+  "Values": {
+    "DisplayMode": 0,
+    "GraphicsOptions": {
+      "ShaderQuality": 800,
+      "WindowAnimations": 0,
+      "CameraShake": 1,
+      "AnimatedVegetation": 0,
+      "Bloom": 1
+    },
+    "UseVSync": false,
+    "ControllerInput": true,
+    "FrameRateLimit": 200,
+    "Quality": 4,
+    "KeyBindings": {
+      "InspectTarget": {
+        "KeyCode": "Q",
+        "Modifier": "Shift"
+      }
+    },
+    "ShowOnlyOwnNumbers": false,
+    "SkipIntroVideo": true,
+    "ShowPvpClusterWarning": false
+  }
+}
