@@ -28,12 +28,14 @@
     "ShowOnlyOwnNumbers": false,
     "SkipIntroVideo": true,
     "ShowPvpClusterWarning": false,
-    "TrackerCollapse": false,
+    "TrackerCollapse": true,
     "MarketPlaceAutoFetch|Tatoo": false,
     "MusicVolume": 0.0,
     "AmbienceVolume": 0.2963458,
     "SoundVolume": 1.0,
     "Desktop_SelectedHudLayoutId": "5fdade51-6953-42e8-b930-72a986f85077",
-    "HudScale": 0.9
+    "HudScale": 0.9,
+    "ChatTextSize": 0.4999999,
+    "EnabledProfanityFilters": []
   }
 }
